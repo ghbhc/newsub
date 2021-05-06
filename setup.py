@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
 	name = 'newsub',
-	version = '0.3.2',
+	version = '0.3.3',
 	author = 'ghbhc',
 	author_email = 'ghbhc01@gmail.com',
 	description = 'expdite the creation of Slurm submission scripts',
